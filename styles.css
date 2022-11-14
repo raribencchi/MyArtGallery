@@ -1,0 +1,88 @@
+
+    body {
+        background-color: #b4f4f8;
+    }
+    
+    h1 {
+        text-align: center;
+        margin: 0 auto;
+        font-size: 30px;
+        color: blueviolet;
+        padding: 15px;
+        border: 1px solid green;
+        border-radius: 10px;
+        box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.4);
+    }
+    h2 {
+        text-align: center;
+        margin: 0 auto;
+        font-size: 20px;
+        color: blueviolet;
+        padding: 50px 50px 10px 50px;
+        text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.4);
+    }
+    img {
+        display: block;
+        margin: 0 auto;
+        width: 100%;
+        border-radius: 10px;
+        background-image: linear-gradient(pink, white, blueviolet);
+    }
+    li {
+        display: block;
+        margin: 0 auto;
+        text-align: justify;
+    }
+    p {
+        line-height: 1.5;
+        font-size: 18px;
+        margin: 20px 0 10px;
+        text-align: justify;
+    }
+    Button {
+        display: block;
+        margin: 15px auto;
+        color: white;
+        background: blueviolet;
+        font-size: 18px;
+        padding: 15px 30px;
+        border: 1px solid #885df1;
+        box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.4);
+        border-radius: 50px;
+        transition: all 300ms ease-in-out;
+        margin-bottom: 20px;
+        margin-top: 80px;
+    }
+    button:hover {
+        opacity: 0.9;
+        cursor: pointer;
+    }
+    
+    ul {
+        padding: 20px;
+        display: block;
+        text-align: center;
+    }
+    .cook {
+        display: block;
+        text-align: center;
+        margin: 50px;
+        font-size: 20px;
+        color: #885df1;
+        text-decoration: none;
+    }
+    .cook:hover {
+        text-decoration: underline;
+        color: black;
+    }
+    .footer {
+        text-align: center;
+        padding: 80px;
+        margin-top: 200px;
+        margin-bottom: 10px;
+    }
+    .contents {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 30px 60px;
+    }
